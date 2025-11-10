@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PRACTICA 08 - JUAN MANUEL VILLALOBOS ALVAREZ</string>
+    <string name="etnombre1">Nombre</string>
+    <string name="etnombre2">Nombre</string>
+    <string name="BotonEnviar">Enviar</string>
+    <string name="BotonRegresar">Regresar</string>
+</resources>

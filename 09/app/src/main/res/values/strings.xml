@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PRACTICA 09 - JUAN MANUEL VILLALOBOS ALVAREZ</string>
+    <string name="AC">AC</string>
+    <string name="MASOMENOS">+/-</string>
+    <string name="PORCENTAJE">%</string>
+    <string name="DIVISION">/</string>
+    <string name="SIETE">7</string>
+    <string name="OCHO">8</string>
+    <string name="NUEVE">9</string>
+    <string name="MULTIPLICACION">*</string>
+
+    <string name="CUATRO">4</string>
+    <string name="CINCO">5</string>
+    <string name="SEIS">6</string>
+    <string name="MENOS">-</string>
+
+    <string name="UNO">1</string>
+    <string name="DOS">2</string>
+    <string name="TRES">3</string>
+    <string name="MAS">+</string>
+
+    <string name="CERO">0</string>
+    <string name="PUNTO">.</string>
+    <string name="IGUAL">=</string>
+
+    <string name="TextView">0</string>
+</resources>
