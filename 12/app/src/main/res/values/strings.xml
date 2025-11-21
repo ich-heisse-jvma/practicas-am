@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PRACTICA 12 - JUAN MANUEL VILLALOBOS ALVAREZ</string>
+    <string name="item1">Opcion 1</string>
+    <string name="item2">Opcion 2</string>
+    <string name="item3">Opcion 3</string>
+    <string name="Buscar">Buscar</string>
+    <string name="Compartir">Compartir</string>
+</resources>

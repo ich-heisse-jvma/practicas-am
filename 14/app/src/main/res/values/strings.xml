@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PRACTICA 14 - JUAN MANUEL VILLALOBOS ALVAREZ</string>
+    <string name="et_nombre">Nombre de usuario</string>
+    <string name="et_contraseña">Contraseña</string>
+    <string name="btn_iniciar">INICIAR SESIÓN</string>
+    <string name="tv_registrar">Registrar</string>
+</resources>
